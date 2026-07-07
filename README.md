@@ -1,6 +1,4 @@
 # Program-SimpleCashier
-Manage product list and payment feature with output payment history with mysql database local root user no password needed
-
 Tech Stack :
 - PHP Native
 - Tailwind CSS CDN version (so make sure you're always online)
