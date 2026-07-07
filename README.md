@@ -9,4 +9,4 @@ Tech Stack :
 How To Use ? :
 1.) Install localhost server app like XAMPP or Laragon
 2.) Open Browser and Import The SQL file at localhost/phpmyadmin
-3.) Run the at your localhost folder adress
+3.) Run the program at your localhost folder adress
